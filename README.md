@@ -1,4 +1,4 @@
-# AnimeList
+# Anime Watch List
 
 It helps anime watchers keep track of the anime they watch.
 
