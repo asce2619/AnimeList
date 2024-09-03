@@ -1,6 +1,6 @@
 # Anime Watch List
 
-Helps anime watchers keep track of the anime's they have watched
+Helps anime watchers keep track of the anime's they have watched using Java Swing
 
 Users can...
 1. Number the order in which they watched
